@@ -6,6 +6,8 @@
 
 ## Неделя 2
 
+<img width="2561" height="1213" alt="image" src="https://github.com/user-attachments/assets/2017d94a-8e8b-433d-874b-7a001779c827" />
+
 ## Неделя 3
 
 ## Неделя 4
