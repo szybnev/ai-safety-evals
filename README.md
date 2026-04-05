@@ -13,3 +13,5 @@
 <img width="2560" height="1052" alt="image" src="https://github.com/user-attachments/assets/23e11ff7-3e7f-4761-b4b3-f72c80cd1599" />
 
 ## Неделя 4
+
+<img width="2560" height="594" alt="image" src="https://github.com/user-attachments/assets/68ac88a9-61f4-4f86-a861-ea2deae75a2e" />
